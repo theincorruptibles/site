@@ -906,6 +906,13 @@ textarea.form-control {
   background-color: #EB5E28;
 }
 
+.list-group, .list-group-item {
+background-color: transparent;
+border-left:none;
+border-bottom:none;
+border-right:none;
+}
+
 /*!
  * jQuery UI Slider 1.10.4
  * http://jqueryui.com
